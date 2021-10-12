@@ -1,0 +1,31 @@
+
+{
+  "name" : "Cherry",
+  "count" : 15,
+  "money" : 15.0,
+  "date" : "01.29.2021"
+}
+{
+  "name" : "Cherry",
+  "count" : 25,
+  "money" : 25.00,
+  "date" : "03.15.2021"
+}
+{
+  "name" : "Cherry",
+  "count" : 40,
+  "money" : 40.00,
+  "date" : "05.10.2021"
+}
+{
+  "name" : "Cherry",
+  "count" : 40,
+  "money" : 40.00,
+  "date" : "08.21.2021"
+}
+{
+  "name" : "Cherry",
+  "count" : 35,
+  "money" : 35.00,
+  "date" : "10.01.2021"
+}
